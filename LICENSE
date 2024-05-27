@@ -1,21 +1,41 @@
-MIT License
+# Artisan Marketplace
 
-Copyright (c) 2024 hajardh
+## Project Description
+This project aims to develop an e-commerce platform that serves as a marketplace for artisans to showcase and sell their handcrafted goods. The platform will offer features such as product listings, user profiles, and secure payment processing.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Target Audience
+This platform is intended for artisans looking to sell their handcrafted goods, as well as consumers interested in purchasing unique, handmade items.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## User Stories
+- As a user, I want to be able to browse through different categories of artisanal products.
+- As a user, I want to create a profile where I can manage my listings and track my sales.
+- As a user, I want to search for specific products and view detailed information about them.
+- As a user, I want to be able to securely purchase items using various payment methods.
+- As a user, I want to receive notifications about order status updates and promotions.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## Wireframes
+[(https://placeholder.com/)
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+## Development Plan
+- Frontend Development (Deadline: MM/DD/YYYY)
+- Backend Development (Deadline: MM/DD/YYYY)
+- Integration of Payment Gateway (Deadline: MM/DD/YYYY)
+- Testing and Debugging (Deadline: MM/DD/YYYY)
+- Deployment (Deadline: MM/DD/YYYY)
+
+## Challenges Anticipated
+- Integrating third-party payment gateways securely.
+- Optimizing performance for handling a large number of product listings.
+- Ensuring a seamless user experience across different devices and screen sizes.
+
+## Git Repository
+[Link to Git Repository](insert_repository_link_here)
