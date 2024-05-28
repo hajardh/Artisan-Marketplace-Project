@@ -29,11 +29,11 @@ https://share.balsamiq.com/c/7KtocdfPzttS29BPqigtkU.png
 - MongoDB
 
 ## Development Plan
-- Frontend Development (Deadline: MM/DD/YYYY)
-- Backend Development (Deadline: MM/DD/YYYY)
-- Integration of Payment Gateway (Deadline: MM/DD/YYYY)
-- Testing and Debugging (Deadline: MM/DD/YYYY)
-- Deployment (Deadline: MM/DD/YYYY)
+Frontend Development (Deadline: 06/15/2024)
+Backend Development (Deadline: 07/01/2024)
+Integration of Payment Gateway (Deadline: 07/15/2024)
+Testing and Debugging (Deadline: 07/30/2024)
+Deployment (Deadline: 08/10/2024)
 
 ## Challenges Anticipated
 - Integrating third-party payment gateways securely.
